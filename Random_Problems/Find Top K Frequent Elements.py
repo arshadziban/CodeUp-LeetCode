@@ -10,7 +10,7 @@ def top_k_frequent(nums, k):
     
     return [num for num, freq in most_common]
 
-# Test case
+
 nums = [1, 1, 1, 2, 2, 3]
 k = 2
 print(top_k_frequent(nums, k)) 
