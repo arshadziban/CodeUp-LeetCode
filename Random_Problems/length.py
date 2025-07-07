@@ -11,8 +11,8 @@ def length_of_longest_substring(s):
     return max_len
 
 # Test cases
-print(length_of_longest_substring("abcabcbb"))   # Output: 3
-print(length_of_longest_substring("bbbbb"))      # Output: 1
-print(length_of_longest_substring("pwwkew"))     # Output: 3
-print(length_of_longest_substring(""))           # Output: 0
-print(length_of_longest_substring("abcdef"))     # Output: 6
+print(length_of_longest_substring("abcabcbb"))   
+print(length_of_longest_substring("bbbbb"))      
+print(length_of_longest_substring("pwwkew"))     
+print(length_of_longest_substring(""))           
+print(length_of_longest_substring("abcdef"))    
