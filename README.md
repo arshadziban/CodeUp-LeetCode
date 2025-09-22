@@ -15,8 +15,3 @@ This repository serves as a public log of my journey in mastering data structure
 
 - **Multi-language Support**: Solutions implemented in popular languages like Python, Java, C++, etc.
 - **Frequent Updates**: New problems added regularly to reflect ongoing practice and growth.
-
-
-## Acknowledgments
-
-Special thanks to [LeetCode](https://leetcode.com/ ) for providing such a valuable platform for developers worldwide.
