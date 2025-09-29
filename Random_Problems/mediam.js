@@ -32,5 +32,4 @@ function findMedianSortedArrays(nums1, nums2) {
   throw new Error("Invalid input.");
 }
 
-console.log(findMedianSortedArrays([1,3], [2]));    
-console.log(findMedianSortedArrays([1,2], [3,4])); 
+console.log(findMedianSortedArrays([1,3], [2]));   
