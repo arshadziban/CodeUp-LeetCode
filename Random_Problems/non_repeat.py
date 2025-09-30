@@ -10,5 +10,4 @@ def first_non_repeated_char(s: str):
     return None
 
 
-# Test cases
-print(first_non_repeated_char("swiss")) 
+print(first_non_repeated_char("swiss"))
